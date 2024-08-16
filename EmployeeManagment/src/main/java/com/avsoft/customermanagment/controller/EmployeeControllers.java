@@ -23,11 +23,11 @@ import com.avsoft.customermanagment.services.PermentEmployeeServiceImpl2;
 
 @RestController
 @RequestMapping("/employeeService")
-public class EmployeeController {
+public class EmployeeControllers {
 
 
 
-	ApplicationContext a;
+
   
   
 	@Autowired
